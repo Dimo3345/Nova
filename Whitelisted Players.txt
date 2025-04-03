@@ -1,0 +1,16 @@
+return {
+    "FBR_FAKE50",
+    "mwerty321s",
+    "Pixel_maks1",
+    "Corn_padla2",
+    "Danua_bro77",
+    "Anub1s_1337",
+     "Pixel_Maks1",
+     "Danua_bro77",
+     "Danu22122",
+     "Kola366l_son",
+     "ymma999",
+     "ixper500",
+     "daniar1422",
+     "space_mornings",
+}
